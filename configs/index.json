@@ -1,9 +1,9 @@
 {
     "configs": [
         {
-            "name": "ExampleConfig",
-            "author": "YourName",
-            "description": "Example configuration"
+            "name": "Legit Settings",
+            "author": "YourNickname",
+            "file": "xd.cfg"
         }
     ]
 }
