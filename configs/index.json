@@ -1,9 +1,9 @@
 {
-    "configs": [
-        {
-            "name": "Legit Settings",
-            "author": "YourNickname",
-            "file": "xd.cfg"
-        }
-    ]
+  "configs": [
+    {
+      "name": "xd",
+      "author": "DoxHunters",
+      "file": "xd.qtm"
+    }
+  ]
 }
